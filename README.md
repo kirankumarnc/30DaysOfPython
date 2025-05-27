@@ -42,7 +42,22 @@ Each day contains:
 - A Jupyter Notebook with code examples (`dayXX_practice.ipynb`)
 - A README with concepts and learnings
 
+---
+## 🚀 How to Use This Repository
 
+This repository contains my **30-day Python learning challenge**. Each day is organized into its own folder with:
+
+- 📝 `README.md` — Concept summary, explanations, and key takeaways  
+- 📓 `dayXX_practice.ipynb` — Hands-on examples and exercises
+
+---
+
+### 📥 To Follow Along
+
+1. **Clone this repository**:
+   ```bash
+   git clone https://github.com/kirankumarnc/30DaysOfPython.git
+   cd 30DaysOfPython
 
 
 
