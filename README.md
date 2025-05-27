@@ -1,7 +1,7 @@
 # 🚀 30 Days of Python Challenge
 
 Welcome to my **#30DaysOfPython** learning journey!  
-For the next 30 days, I'll be learning and practicing Python daily — from the basics to intermediate topics — and sharing my progress here and on [LinkedIn](#).
+For the next 30 days, I'll be learning and practicing Python daily — from the basics to intermediate topics — and sharing my progress here and on [LinkedIn](https://www.linkedin.com/in/kirankumarnc/) 
 
 ---
 
@@ -32,7 +32,7 @@ For the next 30 days, I'll be learning and practicing Python daily — from the 
 
 ## 📌 Daily LinkedIn Posts
 
-Follow my updates on [LinkedIn](#) under the hashtag **#30DaysOfPython**.
+Follow my updates on [LinkedIn](https://www.linkedin.com/in/kirankumarnc/) | `kiran.nck@gmail.com` under the hashtag **#30DaysOfPython**.
 
 ---
 
