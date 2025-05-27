@@ -23,7 +23,7 @@ Python offers clean syntax, a large community, rich libraries, and wide adoption
 - Google Colab: Free, cloud-based, no installation required
 - Terminal: Run `.py` files via `python filename.py`
 
-### 🔹 7. Hello World Program
+### 🔹 Hello World Program
 
 ```python
 print("Hello, World!")
