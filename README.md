@@ -1,2 +1,40 @@
-# 30DaysOfPython
- A 30-day Python learning challenge — practicing core concepts daily with code examples, notes, and progress tracking. 
+# 🚀 30 Days of Python Challenge
+
+Welcome to my **#30DaysOfPython** learning journey!  
+For the next 30 days, I'll be learning and practicing Python daily — from the basics to intermediate topics — and sharing my progress here and on [LinkedIn](#).
+
+---
+
+## 📅 Challenge Overview
+
+| Day | Topic                        | Status  | Notebook/Script |
+|-----|------------------------------|---------|------------------|
+| 01  | Introduction & Hello World   | ✅ Done | [Day01](./Day01_Intro_HelloWorld/) |
+
+---
+
+## 🧠 Why This Challenge?
+
+- Build a strong Python foundation.
+- Improve coding consistency and discipline.
+- Share learnings with the community.
+- Prepare for real-world applications in data analytics and engineering.
+
+---
+
+## 🛠 Tools Used
+
+- Jupyter Notebooks
+- Git & GitHub
+
+
+---
+
+## 📌 Daily LinkedIn Posts
+
+Follow my updates on [LinkedIn](#) under the hashtag **#30DaysOfPython**.
+
+---
+
+## 📂 Repository Structure
+
