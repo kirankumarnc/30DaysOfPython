@@ -8,7 +8,7 @@ For the next 30 days, I'll be learning and practicing Python daily — from the 
 ## 📅 Challenge Overview
 
 | Day | Topic                        | Notebook/Script |
-|-----|------------------------------------------------|
+|-----|------------------------------|-----------------|
 | 01  | Introduction & Hello World   | [Day01](Day01/) |
 
 ---
