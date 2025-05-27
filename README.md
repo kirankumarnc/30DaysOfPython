@@ -9,7 +9,7 @@ For the next 30 days, I'll be learning and practicing Python daily — from the 
 
 | Day | Topic                        | Status  | Notebook/Script |
 |-----|------------------------------|---------|------------------|
-| 01  | Introduction & Hello World   | ✅ Done | [View](Day01/README.md) |
+| 01  | Introduction & Hello World   | ✅ Done | [Day01](Day01/)   |
 
 ---
 
