@@ -36,19 +36,12 @@ Follow my updates on [LinkedIn](https://www.linkedin.com/in/kirankumarnc/) | `ki
 
 ---
 
-## 📂 Repository Structure
+## 📁 Folder Layout
 
-📁 30DaysOfPython/
-│
-├── 📂 Day01/
-│   ├── day01_practice.ipynb    # Hello World and Python intro
-│   └── README.md               # Notes and learning summary
-│
-├── 📂 Day02/
-│   ├── day02_practice.ipynb    # Variables, Data Types
-│   └── README.md
-│
-└── 📄 README.md                # Main challenge tracker
+Each day contains:
+- A Jupyter Notebook with code examples (`dayXX_practice.ipynb`)
+- A README with concepts and learnings
+
 
 
 
